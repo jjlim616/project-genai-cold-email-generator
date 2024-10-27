@@ -28,25 +28,20 @@ Jiajun
 Business Development Executive
 FlexiStaff Solutions
 
-<details>
-<summary>🚀 Quick Start</summary>
+##🚀 Quick Start
 
 Clone the repository
 Install dependencies: pip install -r requirements.txt
 Create a .env file with your Groq API key
 Run the application: python main.py
 
-</details>
-<details>
-<summary>📋 Prerequisites</summary>
+##📋 Prerequisites
 
 Python 3.8+
 Groq API key
 Git
 
-</details>
-<details>
-<summary>🛠️ Installation</summary>
+## 🛠️ Installation
 
 # Clone the repository
 git clone [your-repo-url]
@@ -56,23 +51,19 @@ cd [project-name]
 
 # Install dependencies
 pip install -r requirements.txt
-</details>
-<details>
-<summary>💡 Usage</summary>
+## 💡 Usage
 
 Set up your environment variables
 Modify the prompt template if needed
 Run the script and provide the required inputs
 Get your generated cold email
 
-</details>
-<details>
-<summary>🔑 Environment Variables</summary>
+## 🔑 Environment Variables</summary>
 Create a .env file in the root directory:
 GROQ_API_KEY=your_api_key_here
 </details>
 
-🙏 Credits and Acknowledgments
+##🙏 Credits and Acknowledgments
 This project is a modified version of the project-genai-cold-email-generator created by Codebasics. The original project provided the foundation for cold email generation using AI.
 Modifications Made
 
